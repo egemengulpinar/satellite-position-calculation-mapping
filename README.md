@@ -50,14 +50,14 @@ If we list the text document (.txt) files within the scope of the project;
 If we list the image (.png) files within the scope of the project;
 1. **`satellite.png`**
 
-## Working Method
-SUMMARY: The person who wants to run the project can confirm the correctness of parts **1.** and **2.** without reading the lines below and run the project using the data available in the project [the project should run from the main]. If it is desired to display in real-time or at a standstill, the comment lines in the code can be followed. During the visualization of the project, other information of the satellite can be displayed by clicking on the satellites with the mouse.
-If there are other RINEX data for BeiDou and it is desired to try them, the steps below can be followed to ensure the whole process can be carried out in a comprehensible way.
-
 ### About Ephemeris and Rinex Parameters
 
 ![rinex-ephemeris-parameters](https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/c20cf368-9072-4ead-a605-5e7ec6a13364)
 
+
+## Working Method
+SUMMARY: The person who wants to run the project can confirm the correctness of parts **1.** and **2.** without reading the lines below and run the project using the data available in the project [the project should run from the main]. If it is desired to display in real-time or at a standstill, the comment lines in the code can be followed. During the visualization of the project, other information of the satellite can be displayed by clicking on the satellites with the mouse.
+If there are other RINEX data for BeiDou and it is desired to try them, the steps below can be followed to ensure the whole process can be carried out in a comprehensible way.
 
 The project is managed through the  **`main.m`** file and other files are being called. First, some configurations need to be made within the  **`main.m`** file. These are;
 
