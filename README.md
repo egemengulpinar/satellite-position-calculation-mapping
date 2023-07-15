@@ -58,7 +58,6 @@ If there are other RINEX data for BeiDou and it is desired to try them, the step
 
 ![rinex-ephemeris-parameters](https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/c20cf368-9072-4ead-a605-5e7ec6a13364)
 
-### Equation
 
 The project is managed through the  **`main.m`** file and other files are being called. First, some configurations need to be made within the  **`main.m`** file. These are;
 
