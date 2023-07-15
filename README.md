@@ -1,10 +1,30 @@
 # satellite-position-calculation-mapping
 
+![screen_merge](https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/a8e43c89-dc7e-4c7f-811a-033e1e454db2)
+
 The subject of the study is to conduct research on the BeiDou satellite systems developed by China and to calculate the positions of the satellites. In this study, satellite positions were calculated using BeiDou-specific formulation with data received from BeiDou satellites, and then visualized on a world map with latitude, longitude, and altitude information.
 
 The study concluded that some satellite data belonging to BeiDou (obtained from NASA) are partially faulty and need to be revised for successful satellite position results. Additionally, it was found that satellite position calculation varies depending on the types of orbits **(GEO-MEO-IGSO)** in which the satellites are placed. These conclusions were inferred after examining various articles, documents, and writings related to BeiDou satellite systems, and the accuracy of satellite positions was verified and confirmed through online testing.
 
 Important details distinguishing BeiDou from other constellations were identified. Despite the lack of a clear solution method in articles and documents, an individually developed idea and solution method to overcome the problem were tested and finalized in this study.
+# Demo
+
+### Demo : Satellite Movements
+
+
+
+https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/7ae52bf2-9a4c-43aa-bd22-0bcd4de7abcf
+
+
+
+
+### Demo : Satellite Label Detail
+
+
+https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/91af3470-a465-4e27-a942-57448e766dc2
+
+
+
 
 ## File Hierarchy
 - `/code`             :   The codes developed during the project are located in this folder. Information on how to run the codes and their dependencies can be found in the `About the Codes` section.
