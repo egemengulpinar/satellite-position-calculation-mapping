@@ -54,6 +54,11 @@ If we list the image (.png) files within the scope of the project;
 
 ![rinex-ephemeris-parameters](https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/c20cf368-9072-4ead-a605-5e7ec6a13364)
 
+## Parameters
+We used these parameters for calculating the BeiDou satellite position from Rinex and Ephemeris data. 
+<img width="461" alt="image" src="https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/e79af9fc-685c-4985-8be0-616cc05e94b7">
+
+<img width="493" alt="image" src="https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/d4bd1ed6-5cb5-4363-bb43-c52d2c6885f8">
 
 ## Working Method
 SUMMARY: The person who wants to run the project can confirm the correctness of parts **1.** and **2.** without reading the lines below and run the project using the data available in the project [the project should run from the main]. If it is desired to display in real-time or at a standstill, the comment lines in the code can be followed. During the visualization of the project, other information of the satellite can be displayed by clicking on the satellites with the mouse.
