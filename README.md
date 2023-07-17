@@ -54,8 +54,8 @@ If we list the image (.png) files within the scope of the project;
 
 We used these parameters for calculating the BeiDou satellite position from Rinex and Ephemeris data. 
 <div style="display:flex;">
-  <img width="450" alt="image1" src="https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/e79af9fc-685c-4985-8be0-616cc05e94b7">
-  <img width="540" alt="image2" src="https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/d4bd1ed6-5cb5-4363-bb43-c52d2c6885f8">
+  <img width="350" alt="image1" src="https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/e79af9fc-685c-4985-8be0-616cc05e94b7">
+  <img width="360" alt="image2" src="https://github.com/egemengulpinar/satellite-position-calculation-mapping/assets/71253469/d4bd1ed6-5cb5-4363-bb43-c52d2c6885f8">
 </div>
 
 
